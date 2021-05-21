@@ -37,6 +37,9 @@
             <li><a class="dropdown-item" href="emergency.html"> Emergency Planning </a></li>
           </ul>
           <li class="nav-item">
+          <a class="nav-link" href="calculator.php"> Amount calculator </a>
+        </li>
+          <li class="nav-item">
           <a class="nav-link active" href="#">Contact Us</a>
         </li>
         </li>
